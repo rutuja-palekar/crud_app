@@ -1,0 +1,28 @@
+.login {
+    width: 12rem;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    margin-bottom: 0.5rem;
+}
+.submitContainer{
+    display: flex;
+    justify-content: center;
+}
+.submit {
+    margin-top: 1rem;
+    padding: 0.3rem 1rem 0.3rem 1rem;
+    font-size: 0.9rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}

@@ -1,0 +1,42 @@
+.header {
+    height: 4.5rem;
+    background-color: rgb(186, 184, 184);
+}
+
+nav {
+    display: flex;
+    justify-content: left;
+    margin-left: 2rem;
+}
+
+h1 {
+    color: gray;
+    margin-top: 1.6rem;
+    font-weight: 400;
+}
+
+ul {
+    display: flex;
+    margin-top: 0.8rem;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+    padding: 1rem 2rem 1rem 2rem;
+    font-size: 1.2rem;
+    color: gray;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+    padding: 1rem 2rem 1rem 2rem;
+    font-size: 1.2rem;
+    color: gray;
+}
+
+.active {
+    background-color: black;
+    color: white;
+}

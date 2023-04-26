@@ -1,0 +1,30 @@
+.userDetails {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.userNameInput{
+    border: none;
+    font-size: 1rem;
+    margin-left: 0.5rem;
+}
+
+.userProfileButton{
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    margin-right: 2rem;
+    border-radius: 0.5rem;
+    outline: none;
+    border: 2px solid rgb(168, 165, 165);
+    background-color: white;
+    margin-top: 8rem;
+    font-size: 0.9rem;
+}
+
+.newPassword {
+    margin-left: 1rem;
+    padding: 0.3rem 1rem 0.3rem 1rem;
+}
+
+.userProfile {
+     margin-bottom: 2rem;
+}
